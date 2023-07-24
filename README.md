@@ -55,7 +55,7 @@ Contribuições são bem-vindas! Se você deseja contribuir com este projeto, si
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/Devolvera1/Conversor-de-moeda-e-Temperatura/blob/main/LICENSE.txt) para mais detalhes.
 
 ## Contato
 
