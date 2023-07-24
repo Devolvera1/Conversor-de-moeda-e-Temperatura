@@ -60,5 +60,6 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE
 ## Contato
 
 Em caso de dúvidas ou sugestões, sinta-se à vontade para entrar em contato através do email: Contato.guilhermefsantana@gmail.com.
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 Aproveite o Conversor de Moedas e Temperatura em Java! Esperamos que seja útil para suas necessidades.
